@@ -1,0 +1,18 @@
+# Node.js / Frontend
+node_modules/
+dist/
+build/
+.env.local
+.DS_Store
+
+# Python / Backend
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+
+# Operating System Files
+Thumbs.db
+ehthumbs.db
+
